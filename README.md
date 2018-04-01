@@ -162,7 +162,3 @@ File bug reports, feature requests and questions using
 Questions and discussions are also welcome on irc.freenode.org, #apache-kafka,
 nickname Snaps.
 
-
-### Commercial support
-
-Commercial support is available from [Edenhill services](http://www.edenhill.se)
