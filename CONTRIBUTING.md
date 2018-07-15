@@ -2,8 +2,8 @@
 
 (This document is based on [curl's CONTRIBUTE.md](https://github.com/curl/curl/blob/master/docs/CONTRIBUTE.md) - thank you!)
 
-This document is intended to offer guidelines on how to best contribute to the
-librdkafka project. This concerns new features as well as bug fixes and
+This document offers guidelines on how to best contribute to the
+librdkafka project. This concerns new features,bug fixes and
 general improvements.
 
 ### License and copyright
