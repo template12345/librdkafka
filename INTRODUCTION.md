@@ -204,9 +204,9 @@ The delivery report callback is optional but highly recommended.
 ### Producer message delivery success
 
 When a ProduceRequest is successfully handled by the broker and a
-ProduceResponse is received (also called the ack) without an error code
+ProduceResponse is received (also called the ack) without an error code,
 the messages from the ProduceRequest are enqueued on the delivery report
-queue (if a delivery report callback has been set) and will be passed to
+queue (if a delivery report callback has been set). Messages will be passed to
 the application on the next invocation rd_kafka_poll().
 
 
